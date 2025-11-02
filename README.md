@@ -2,9 +2,7 @@
 
 # 👋 Hi, I'm Nahuel Cioffi
 
-**Software Engineer — Building tools & UI test automation**
-
-*Passionate about creating developer tools that make testing simple and accessible*
+**Software Engineer — Building tools**
 
 [![Website](https://img.shields.io/badge/🌐_qak.app-4A90E2?style=for-the-badge&logoColor=white)](https://qak.app)
 [![GitHub](https://img.shields.io/badge/GitHub-@nahuelcio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nahuelcio)
@@ -15,16 +13,6 @@
 
 ---
 
-## 🚀 What I'm Building Now
-
-**[QAK.app](https://qak.app)** — A simple, low‑cost **E2E UI testing** platform designed specifically for startups and small teams.
-
-- 🤖 **AI‑assisted test flows** — Generate tests from natural language descriptions
-- 💰 **Startup‑friendly pricing** — Quality testing shouldn't break the bank
-- ⚡ **Quick setup** — Get testing in minutes, not hours
-- 🎯 **Focus on simplicity** — Complex testing made accessible
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -61,11 +49,10 @@
 
 ## 💼 Featured Projects
 
-### 🎯 [QAK.app](https://qak.app) — UI Testing Platform
-*The main project I'm currently building*
+### 🎯 [QAK.app](https://qak.app) — UI Testing Platfor
 
 **What it does:** Simplifies E2E UI testing for startups with AI-assisted test creation
-**Tech:** `.NET Core`, `Angular`, `TypeScript`, `PostgreSQL`, `Docker`
+**Tech:**  `NextJS`, `TypeScript`, `PostgreSQL`, `Docker`
 **Status:** 🚧 In active development
 
 **Key Features:**
@@ -96,7 +83,6 @@
 ## 🎯 What I'm Passionate About
 
 - **🔧 Developer Tools** — Building tools that make developers' lives easier
-- **🧪 Test Automation** — Making quality assurance accessible to everyone
 - **🏗️ Clean Architecture** — Writing maintainable, scalable code
 - **🚀 Startup Culture** — Fast iteration and solving real problems
 
@@ -104,8 +90,7 @@
 
 ## 📈 Current Focus
 
-- 🔨 **Building QAK.app** — Making UI testing simple and affordable
-- 📚 **Learning** — Exploring AI/ML integration in testing tools
+- 📚 **Learning** — Exploring AI/ML integration
 - 🌱 **Growing** — Building in public and sharing the journey
 - 🤝 **Connecting** — Always open to collaborate on interesting projects
 
@@ -119,7 +104,6 @@ I'm always excited to discuss:
 - Developer tool design
 - Startup challenges and solutions
 
-**📧 [cioffinahuel@gmail.com](mailto:cioffinahuel@gmail.com)**
 
 <div align="center">
 
