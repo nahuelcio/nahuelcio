@@ -4,7 +4,6 @@
 
 **Software Engineer — Building tools**
 
-[![Website](https://img.shields.io/badge/🌐_qak.app-4A90E2?style=for-the-badge&logoColor=white)](https://qak.app)
 [![GitHub](https://img.shields.io/badge/GitHub-@nahuelcio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nahuelcio)
 [![X](https://img.shields.io/badge/X-@cioffinahue-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cioffinahue)
 [![Email](https://img.shields.io/badge/Email-cioffinahuel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cioffinahuel@gmail.com)
@@ -47,21 +46,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-### 🎯 [QAK.app](https://qak.app) — UI Testing Platfor
-
-**What it does:** Simplifies E2E UI testing for startups with AI-assisted test creation
-**Tech:**  `NextJS`, `TypeScript`, `PostgreSQL`, `Docker`
-**Status:** 🚧 In active development
-
-**Key Features:**
-- AI-powered test generation from natural language
-- Visual test builder with drag-and-drop interface  
-- Affordable pricing model for small teams
-- Cloud-based test execution
-
----
 
 ## 📊 GitHub Analytics
 
