@@ -1,6 +1,6 @@
 # Nahuel Cioffi
 
-Software engineer. Trabajo sobre todo con TypeScript y Node.js, construyendo agentes de IA para todo tipo de tareas.
+Software engineer. Trabajo sobre todo con TypeScript y Node.js, construyendo agentes de IA
 
 ## Foco
 
